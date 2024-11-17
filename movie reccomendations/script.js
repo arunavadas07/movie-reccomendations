@@ -1,5 +1,5 @@
-const API_KEY = 'your_api_key'; // Replace with your TMDb API key
-const BASE_URL = 'https://api.themoviedb.org/3';
+const API_KEY = '7ff9817d'; // Replace with your TMDb API key
+const BASE_URL = 'https://www.omdbapi.com/';
 
 const searchInput = document.getElementById('search');
 const searchBtn = document.getElementById('searchBtn');
